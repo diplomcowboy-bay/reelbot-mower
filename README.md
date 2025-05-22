@@ -1,3 +1,4 @@
+![ReelBot Logo](https://github.com/diplomcowboy-bay/reelbot-mower/blob/main/ReelBot-Banner.png?raw=true)
 # ReelBot Mower
 
 **Open-source robotic reel mower** for precise, quiet, and autonomous lawn maintenance – without perimeter wire or GPS. Designed for shaded, structured, and complex lawns.
